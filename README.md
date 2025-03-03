@@ -8,10 +8,11 @@ consumo de APIs e testes automatizados.
 💡 Acredito que a resolução de problemas, o aprendizado contínuo e a construção de projetos reais são a chave para a evolução na carreira tech.
 
 🛠️ Tecnologias e Ferramentas
-🔹 Linguagens: JavaScript, Python, C, C#, HTML, CSS
-🔹 Frameworks & Bibliotecas: React, Node.js, Tailwind 
-🔹 Ferramentas: Git, GitHub, Figma, VS Code
-🔹 Metodologias: Scrum, Kanban
+
+🔹 Linguagens: JavaScript, Python, C, C#, HTML, CSS;
+🔹 Frameworks & Bibliotecas: React, Node.js, Tailwind;
+🔹 Ferramentas: Git, GitHub, Figma, VS Code;
+🔹 Metodologias: Scrum, Kanban;
 
 📧 E-mail: thallestleal@gmail.com
 
