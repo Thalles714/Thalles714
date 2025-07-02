@@ -1,11 +1,6 @@
-Olá! Atualmente sou um desenvolvedor Front-End apaixonado por criar interfaces modernas e responsivas. Estou finalizando minha graduação 
-em Análise e Desenvolvimento de Sistemas e meu objetivo é conseguir minha primeira vaga como desenvolvedor júnior em uma empresa
-renomada.
+Olá, meu nome é Thalles
 
-🚀 Atualmente, estou focado em aprimorar minhas habilidades em HTML, CSS, JavaScript e React, além de boas práticas como Git, 
-consumo de APIs e testes automatizados.
-
-🔹 HTML5, CSS3, JavaScript, Python;
+🔹 Typescript, Next.JS, Node.js, React, UX/UI
 
 📧 E-mail: thallestleal@gmail.com
 
